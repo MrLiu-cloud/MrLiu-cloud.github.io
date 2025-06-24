@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on Mr.Liu</title>
+        <link>https://MrLiu-cloud.github.io/categories/test/</link>
+        <description>Recent content in Test on Mr.Liu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Mr.Liu All Rights Reserved</copyright><atom:link href="https://MrLiu-cloud.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
